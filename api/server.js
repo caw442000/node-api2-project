@@ -1,4 +1,5 @@
 const express = require('express');
+const cors = require('cors');
 
 const postsRouter = require('../posts/posts-router.js')
 
